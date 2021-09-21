@@ -6,3 +6,5 @@ Deze tutorial baseert zich voornamelijk op Git en het gebruik van Github als haa
 Deze repository wordt stap voor stap opgebouwd in de tutorial.
 
 Nu zijn ook Github stappen geïncludeerd.
+
+Dit is trouwens een nieuwe regel. 
